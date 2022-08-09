@@ -6,22 +6,16 @@
 //
 
 import SwiftUI
-import ApplyRatingCocoaPodsLibrary
+//import MyRatingCocoapodsLibrary
 
 struct ContentView: View {
     var body: some View {
-        MyRatingCocoapods(maxRating: 3, currentRating: .constant(0))
-            .padding()
-    }
+        Text("Hello")
+//        MyRatingCocoapods(maxRating: 3, currentRating: .constant(0))
+//            .padding()
+   }
 }
 
-//struct ContentView: View {
-//    var body:
-//        Text("Hello, world!")
-//            .padding()
-////        MyRatingCocoapods(maxRating: 3, currentRating: .constant(0))
-//
-//}
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
