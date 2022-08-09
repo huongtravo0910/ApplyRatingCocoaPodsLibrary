@@ -1,0 +1,16 @@
+PODS:
+  - MyRatingCocoapodsLibrary (0.1.0)
+
+DEPENDENCIES:
+  - MyRatingCocoapodsLibrary (from `../MyRatingCocoapodsLibrary`)
+
+EXTERNAL SOURCES:
+  MyRatingCocoapodsLibrary:
+    :path: "../MyRatingCocoapodsLibrary"
+
+SPEC CHECKSUMS:
+  MyRatingCocoapodsLibrary: 73c32d02b4cda42079bc49925837f4be2d98d97d
+
+PODFILE CHECKSUM: 597ab5cf26af5c9bfcb621e6c2e7e6719b4367ee
+
+COCOAPODS: 1.11.3

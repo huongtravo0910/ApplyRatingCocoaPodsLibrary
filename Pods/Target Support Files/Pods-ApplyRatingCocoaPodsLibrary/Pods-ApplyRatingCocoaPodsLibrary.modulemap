@@ -1,0 +1,6 @@
+framework module Pods_ApplyRatingCocoaPodsLibrary {
+  umbrella header "Pods-ApplyRatingCocoaPodsLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}

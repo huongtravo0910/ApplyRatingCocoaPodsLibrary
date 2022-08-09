@@ -1,0 +1,22 @@
+{
+  "name": "MyRatingCocoapodsLibrary",
+  "version": "0.1.0",
+  "summary": "A short description of MyRatingCocoapodsLibrary.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/66101016/MyRatingCocoapodsLibrary",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "66101016": "huongtravo0910@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/66101016/MyRatingCocoapodsLibrary.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "14.0"
+  },
+  "source_files": "MyRatingCocoapodsLibrary/Classes/**/*"
+}
